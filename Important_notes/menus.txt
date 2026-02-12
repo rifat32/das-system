@@ -1,0 +1,245 @@
+📘 GERMAN GRAMMAR – B2-BERUF COMPLETE SYSTEM
+"From Gender Rules to Technical Manuals"
+🔷 ARTICLES & GENDER [A1–A2]
+Predicting noun gender without memorization
+
+Rule	Level
+The Suffix Rule: Predicting Gender	A1
+Feminine Groups: -ung, -heit, -keit, -schaft, -ion, -tät	A1
+Masculine Groups: -ling, -or, -ig, -ismus, -er (agent)	A1
+Neuter Groups: -chen, -lein, -um, -ment, -nis	A1
+The Biological Exception (Der/Die for people)	A1
+Compound Nouns: The Last Word Rules	A2
+Noun Gender: No Suffix? Look at Meaning	A2
+🔷 CASES: THE FOUR FACES [A1–B1]
+Who? What? To whom? Whose?
+
+🟢 Nominative [A1]
+Nominative: Subject (Who is doing it?) | A1
+
+🟡 Accusative [A1–A2]
+Accusative: Direct Object (What is affected?) | A1
+
+Accusative Prepositions: durch, für, ohne, um, gegen, entlang | A2
+
+🔵 Dative [A2–B1]
+Dative: Indirect Object (To/For whom?) | A2
+
+Dative Verbs: helfen, danken, gefallen, gehören, folgen | B1
+
+Dative Prepositions: aus, bei, mit, nach, seit, von, zu, gegenüber | A2
+
+🟣 Two-Way Prepositions [A2–B1]
+Two-Way: Wo vs. Wohin (Location vs. Direction) | A2
+
+Two-Way: Wechselpräpositionen (in, auf, unter, über, vor, hinter, neben, zwischen) | A2
+
+Two-Way: Verbs that Force Dative (bleiben, stehen, liegen, sitzen, hängen) | B1
+
+Two-Way: Verbs that Force Accusative (stellen, legen, setzen, hängen) | B1
+
+🟤 Genitive [B1–B2]
+Genitive: Possession (des, der, des) | B1
+
+🔧 Genitive Prepositions: während, wegen, trotz, statt, aufgrund, innerhalb, außerhalb, unweit, oberhalb, unterhalb | B2
+
+🔷 VERBS: FROM ACTION TO REPORT [A1–B2]
+🟢 Basic Verbs & Tenses [A1–B1]
+Present Tense: Regular & Irregular | A1
+
+Perfect Tense: Sein vs. Haben | A1
+
+Past Participles: Regular (ge–t) | A1
+
+Past Participles: Irregular (ge–en) | A1
+
+Past Participles: No ge– (inseparable/–ieren) | A2
+
+Simple Past (Präteritum): war, hatte, wurde | A2
+
+Simple Past: Modal Verbs (konnte, musste, wollte, sollte, durfte) | A2
+
+Future I: werden + Infinitiv (Vermutung) | B1
+
+🟡 Prefixes: The Gatekeepers [A2–B1]
+Separable Prefixes: an-, auf-, mit-, vor-, zu-, ab-, bei-, ein-, fest-, her- | A2
+
+Separable Prefixes: Position in Main Clause (Verb Kick) | A2
+
+Inseparable Prefixes: be-, ver-, er-, ent-, zer-, ge-, emp-, miss- | B1
+
+Dual Prefixes: Meaning Changes (um-, über-, unter-, durch-, hinter-) | B1
+
+🔵 Modal Verbs [A2–B1]
+Modal Verbs: Present Tense (kann, muss, darf, soll, will, mag) | A2
+
+Modal Verbs: Past Tense (konnte, musste, durfte, sollte, wollte, mochte) | B1
+
+Modal Verbs: Subjunctive Meaning (sollte, könnte, müsste, dürfte, wollte) | B1
+
+🔧 Modal Verbs: Objective Statement (sollen/wollen for "they say / claim") | B2
+
+🟣 Advanced Verb Structures [B2 – AUSBILDUNG CRITICAL]
+Rule	Use Case
+🔧 Konjunktiv I: Reported Speech (Er sagte, er habe...)	Documenting customer complaints
+🔧 Konjunktiv II: If I Were... (wäre, hätte, würde)	Hypothetical scenarios
+🔧 Konjunktiv II: Polite Requests (Ich hätte gern..., Könnten Sie?)	Professional communication
+🔧 Futur II: Assumptions about the Past (Er wird gelesen haben)	Speculating about completed actions
+🔧 Lassen + Infinitiv: Causative (Ich lasse den Wagen reparieren)	Ordering/arranging services
+🔷 PASSIVE VOICE & ALTERNATIVES [B1–B2]
+From "is done" to "must be done" to "can be done" — essential for manuals
+
+Rule	Example	Level
+Vorgangspassiv: werden + Partizip 2 (Process)	Die Maschine wird repariert	B1
+Zustandspassiv: sein + Partizip 2 (Result)	Die Maschine ist repariert	B1
+Passive with Modal Verbs	Die Maschine muss repariert werden	B1
+🔧 Passiversatz: sein + zu + Infinitiv (Must)	Die Maschine ist zu reparieren	B2
+🔧 Passiversatz: lassen + sich (Can)	Das Problem lässt sich lösen	B2
+🔧 Unpersönliches Passiv	Hier wird gearbeitet / Es wird getanzt	B2
+🔧 bekommen-Passiv (Recipient Passive)	Er bekommt das Buch geschenkt	B2
+🔷 NOUNS: PRECISION & FORMALITY [B1–B2]
+Official German runs on nouns, not verbs
+
+🟡 N-Deklination [B1 – AUSBILDUNG CRITICAL]
+Rule	Example
+🔧 N-Deklination: Weak Masculine Nouns	der Kunde → den Kunden
+🔧 N-Deklination: Nationalities	der Franzose → den Franzosen
+🔧 N-Deklination: Professions	der Kollege → den Kollegen
+🔧 N-Deklination: Animals	der Löwe → den Löwen
+🔧 N-Deklination: Complete List (40+ words)	der Herr, der Mensch, der Name...
+🟣 Nominalisierung [B2 – REPORT WRITING]
+Rule	Example
+🔧 Verb → Noun: -ung, -e, -tion	anmelden → die Anmeldung
+🔧 Verb → Noun: Null suffix	besuchen → der Besuch
+🔧 Infinitive as Noun (das + infinitive)	das Arbeiten, das Lesen, das Schreiben
+🔧 Preposition + Nominal Phrase	beim Arbeiten, zum Verkauf, nach der Ankunft
+🔵 Nomen-Verb-Verbindungen [B2 – AUSBILDUNG CRITICAL]
+Function verb structures. Your boss speaks like this. You must too.
+
+Verb Phrase	Translation	Field
+🔧 eine Frage stellen	to ask a question (not fragen)	General
+🔧 eine Entscheidung treffen	to make a decision (not entscheiden)	Management
+🔧 Maßnahmen ergreifen	to take measures	Safety/Technical
+🔧 zur Verfügung stellen	to make available	Logistics
+🔧 in Betrieb nehmen	to commission/start up	Technical
+🔧 außer Betrieb nehmen	to decommission	Technical
+🔧 zur Anwendung kommen	to be applied	Technical
+🔧 Abschluss machen	to graduate/complete	Education
+🔧 in Kauf nehmen	to accept a drawback	Negotiation
+🔧 zum Ausdruck bringen	to express	Communication
+🔧 in Betracht ziehen	to consider	Planning
+🔧 zur Sprache bringen	to address a topic	Meetings
+🔧 Antrag stellen	to submit an application	Administration
+🔧 Prüfung ablegen	to take an exam	Education
+🔧 Verantwortung übernehmen	to take responsibility	Leadership
+🔷 ADJECTIVES: FROM SIMPLE TO COMPLEX [A1–B2]
+🟢 Basic Endings [A1–B1]
+Strong Endings: No Article | A2
+
+Weak Endings: Der/Die/Das Present | A2
+
+Mixed Endings: Ein– Words | A2
+
+Adjectives Without Endings (predicate) | A1
+
+🔵 Comparison Logic [B1]
+Comparative & Superlative: Regular | A2
+
+Irregular Comparatives: gut – besser – am besten | B1
+
+Equality: genauso... wie | A2
+
+Inequality: als | A2
+
+🔧 Proportional: je... desto/umso (Je mehr, desto besser) | B2
+
+🟣 Participles as Adjectives [B2 – TECHNICAL MANUALS]
+Rule	Example	Use
+🔧 Partizip I: Active Meaning	die kochende Suppe	Ongoing action
+🔧 Partizip II: Passive/Completed	das verkaufte Auto	Finished action
+🔧 Extended Participle Constructions [CRITICAL]	Die [vom Mechaniker am Montag reparierte] Maschine	Technical documentation
+🟡 Adjectives with Fixed Prepositions [B2]
+stolz auf + Akk | B2
+
+interessiert an + Dat | B2
+
+verantwortlich für + Akk | B2
+
+zufrieden mit + Dat | B2
+
+bekannt für + Akk / bekannt als | B2
+
+froh über + Akk | B2
+
+neugierig auf + Akk | B2
+
+abhängig von + Dat | B2
+
+🔷 STRUCTURE & WORD ORDER [A1–B2]
+🟢 Basic Sentence Structure [A1–B1]
+Verb Second: Statements | A1
+
+Verb First: Commands & Yes/No Questions | A1
+
+Verb Last: Subordinate Clauses | A2
+
+TeKaMoLo: Time – Cause – Manner – Place | B1
+
+🔵 Conjunctions & Connectors [A1–B2]
+🟡 Coordinating (Verb Position 2) [A1–A2]
+und, aber, oder, denn, sondern | A1
+
+🟡 Subordinating (Verb Last) [A2–B1]
+weil, dass, wenn, als, ob, während, bevor, nachdem, bis, seitdem, sobald, solange | A2-B1
+
+🔵 Two-Part Conjunctions [B2 – PROFESSIONAL ARGUMENTS]
+Conjunction	Translation
+🔧 sowohl... als auch	as well as
+🔧 weder... noch	neither... nor
+🔧 zwar... aber	although... but
+🔧 entweder... oder	either... or
+🔧 je... desto/umso	the... the
+🔧 nicht nur... sondern auch	not only... but also
+🔴 Adverbial Conjunctions [B2 – INVERSION RULE CRITICAL]
+⚠️ VERB POSITION 2 IMMEDIATELY AFTER THE CONNECTOR
+
+Conjunction	Translation	Example
+🔧 deshalb, darum, daher	therefore	Ich bin müde. Deshalb gehe ich nach Hause.
+🔧 trotzdem, dennoch	nevertheless	Es regnet. Trotzdem gehe ich joggen.
+🔧 sonst, andernfalls	otherwise	Ich muss gehen, sonst verpasse ich den Bus.
+🔧 folglich, infolgedessen	consequently	Es gab einen Fehler, folglich mussten wir neu starten.
+🔧 außerdem, darüber hinaus	furthermore	Er spricht Deutsch. Außerdem lernt er Chinesisch.
+🔧 zuerst... dann	first... then	Zuerst lese ich, dann schreibe ich.
+🔷 RELATIVE CLAUSES & PRONOUNS [B1–B2]
+Relative Clauses: Der/Die/Das vs. Welcher/Welche | B1
+
+Relative Clauses: Prepositions + Relative Pronouns (mit dem, auf den) | B1
+
+🔧 Relative Clauses: Genitive (dessen, deren) | B2
+
+🔧 Relative Clauses: Wo / Wohin / Woher | B2
+
+🔧 Indefinite Relative Pronouns: wer, wen, wem | B2
+
+🔷 NEGATION & QUESTIONS [A1–B2]
+Nicht vs. Kein: The Difference | A1
+
+Nicht Position in the Sentence | A2
+
+Ja/Nein vs. W– Questions | A1
+
+Indirect Questions: ob, wann, wo, wie, wer, was | B1
+
+🔧 Negative Prefixes: un-, in-, nicht- | B2
+
+🔷 NUMBERS, TIME & DATE [A1–B1]
+Cardinal Numbers: 0–1,000,000 | A1
+
+Ordinal Numbers: der erste, zweite... | A2
+
+Time: Uhr vs. Stunde | A1
+
+Date: im Jahr 2024, am 5. Mai | A2
+
+Time Prepositions: um, am, im, von... bis | A2
+
