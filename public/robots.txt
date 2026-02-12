@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://das-system.vercel.app
+
+# Sitemaps
+Sitemap: https://das-system.vercel.app/sitemap.xml
