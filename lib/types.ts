@@ -27,7 +27,8 @@ export interface GrammarPage {
     slug: string;
     title: string;
     level: "A1" | "A2" | "B1" | "B2";
-    category: "articles" | "cases" | "verbs" | "structure" | "adjectives" | "passive" | "nouns" | "relative-clauses" | "negation" | "numbers";
+    category: GrammarCategory;
+    sub_category: string;
     tags: string[];
     summary: string;
     related_vocab: string[];
@@ -36,4 +37,19 @@ export interface GrammarPage {
 }
 
 export type CEFRLevel = "A1" | "A2" | "B1" | "B2" | "C1" | "C2";
-export type GrammarCategory = "articles" | "cases" | "verbs" | "structure" | "adjectives" | "passive" | "nouns" | "relative-clauses" | "negation" | "numbers";
+export type GrammarCategory = 
+    | "articles" 
+    | "cases" 
+    | "verbs" 
+    | "passive" 
+    | "nouns" 
+    | "adjectives" 
+    | "structure" 
+    | "relative-clauses" 
+    | "negation" 
+    | "numbers"
+    | "word-formation"
+    | "error-system"
+    | "spoken-written"
+    | "real-german"
+    | "professional";

@@ -7,6 +7,9 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
+  turbopack: {
+    root: '/home/rifat/rifat/learn/das-system',
+  },
 };
 
 const withMDX = createMDX({

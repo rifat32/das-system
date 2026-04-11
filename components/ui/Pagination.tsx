@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { GRAMMAR_SITEMAP, getGrammarPageBySlug } from '@/data/grammar-sitemap';
+import { GRAMMAR_SITEMAP } from '@/data/grammar-sitemap';
 
 interface PaginationProps {
     currentSlug: string;
