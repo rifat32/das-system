@@ -16,7 +16,7 @@ const CATEGORY_LABELS: Record<GrammarCategory, string> = {
     'relative-clauses': '🔷 8. RELATIVE CLAUSES & PRONOUNS (B1–B2)',
     'negation': '🔷 9. NEGATION & QUESTIONS (A1–B2)',
     'numbers': '🔷 10. NUMBERS, TIME & DATE (A1–B1)',
-    'word-formation': '🔷 11. WORD FORMATION SYSTEM (NEW 🔥)',
+    'word-formation': '🔷 11. WORD FORMATION SYSTEM (NEW 🔥 CRITICAL)',
     'error-system': '🔷 12. ERROR SYSTEM (NEW 🔥)',
     'spoken-written': '🔷 13. SPOKEN vs WRITTEN GERMAN (NEW)',
     'real-german': '🔷 14. REAL GERMAN (NEW 🔥)',

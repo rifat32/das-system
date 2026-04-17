@@ -66,31 +66,31 @@ const CATEGORY_INFO: Record<GrammarCategory, { title: string, description: strin
         color: 'from-slate-500 to-slate-700' 
     },
     'word-formation': { 
-        title: 'Word Formation', 
+        title: 'Word Formation System (NEW 🔥 CRITICAL)', 
         description: 'Unlock the Lego-like logic of German. Prefixes and suffixes decoded.', 
         icon: '🔥', 
         color: 'from-amber-400 to-orange-500' 
     },
     'error-system': { 
-        title: 'Error System', 
+        title: 'Error System (NEW 🔥)', 
         description: 'The top 50 learner mistakes and how to fix them with diagnostic rules.', 
         icon: '🛡️', 
         color: 'from-red-500 to-orange-600' 
     },
     'spoken-written': { 
-        title: 'Spoken vs Written', 
+        title: 'Spoken vs Written (NEW)', 
         description: 'Navigate the distance between casual talk and professional documentation.', 
         icon: '🗣️', 
         color: 'from-sky-500 to-blue-600' 
     },
     'real-german': { 
-        title: 'Real German', 
+        title: 'Real German (NEW 🔥)', 
         description: 'Authentic idioms and natural phrasing patterns used by natives.', 
         icon: '🥨', 
         color: 'from-orange-600 to-yellow-700' 
     },
     'professional': { 
-        title: 'Professional German', 
+        title: 'Professional German (B2 🔥)', 
         description: 'Workplace communication: Emails, reports, and technical manuals.', 
         icon: '💼', 
         color: 'from-indigo-600 to-slate-800' 
